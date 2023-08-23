@@ -1,4 +1,4 @@
-#
+
 
 
 html {
@@ -16,7 +16,7 @@ h1 {
 
 p, li {
 
-    font-size: 16px;
+    font-size: 40px;
     line-height: 2;
     letter-spacing: 1px;
 
@@ -30,7 +30,7 @@ html {
 
 body {
 
-     width: 600px;
+     width: 1000px;
      margin: 0 auto;
      background-color: #D864F1;
      padding: 0 20px 20px 20px;
@@ -55,4 +55,6 @@ img {
     margin: 0 auto;
 }
 
-html
+h6 {
+    font-size: 40px;
+ }
